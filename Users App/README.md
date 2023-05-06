@@ -4,4 +4,4 @@
 
 Screenshots:
 
-![./screenshots/l1.jpeg]
+![screenshots/l1.jpeg]
