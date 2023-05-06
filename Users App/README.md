@@ -4,4 +4,4 @@
 
 Screenshots:
 
-![[/screenshots/l1.jpeg](https://github.com/HarshSh1224/flutter-assessment/blob/main/Users%20App/screenshots/l4.jpeg)]
+![Screenshot1](./screenshots/l1.jpeg)
